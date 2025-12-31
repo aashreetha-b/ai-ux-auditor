@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+numpy
+matplotlib
+streamlit
+opencv-python
+Pillow
+scikit-image
+reportlab
+tqdm
